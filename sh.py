@@ -1,2 +1,3 @@
-Print("your name")
-"kol khara"
+print("Your name")
+print("Whatever you want")
+
